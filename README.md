@@ -40,8 +40,8 @@ I turn messy, large-scale data into decisions. Previously a **Data Scientist at 
 
 | Project | What it does |
 | --- | --- |
-| [**Dynamic Portfolio Optimization**](https://github.com/dhruvi002/dynamic-portfolio-optimization) | Deep RL trading agent (Soft Actor-Critic) managing a 30-asset portfolio — **+24% Sharpe** over baseline |
 | [**MedComply — Agentic RAG**](https://github.com/dhruvi002/medical-compliance-rag) | Production RAG over compliance docs with RBAC, audit logging & **+24% retrieval precision** |
+| [**Dynamic Portfolio Optimization**](https://github.com/dhruvi002/dynamic-portfolio-optimization) | Deep RL trading agent (Soft Actor-Critic) managing a 30-asset portfolio — **+24% Sharpe** over baseline |
 | [**Healthcare Training Analytics**](https://github.com/dhruvi002/Healthcare-Training-Analytics) | Skill-decay forecasting (**R² = 0.917**) + rigorous A/B testing in R |
 | [**Demand Forecast & Inventory Optimizer**](https://github.com/dhruvi002/demand-forecast-inventory-optimizer) | SKU-level demand forecasting with ARIMA + XGBoost |
 
