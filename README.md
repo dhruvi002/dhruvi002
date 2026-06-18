@@ -46,9 +46,4 @@ I turn messy, large-scale data into decisions. Previously a **Data Scientist at 
 | [**Healthcare Training Analytics**](https://github.com/dhruvi002/Healthcare-Training-Analytics) | Skill-decay forecasting (**R² = 0.917**) + rigorous A/B testing in R |
 | [**Demand Forecast & Inventory Optimizer**](https://github.com/dhruvi002/demand-forecast-inventory-optimizer) | SKU-level demand forecasting with ARIMA + XGBoost |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvi002&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi002&layout=compact&hide_border=true&theme=dark" alt="Top languages" height="160">
-</p>
-
 <p align="center"><em>👉 See the full portfolio at <a href="https://dhruvi002.github.io">dhruvi002.github.io</a></em></p>
